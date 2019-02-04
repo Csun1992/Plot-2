@@ -13,7 +13,6 @@ Two things particularly interesting about the plot:
 1. It shows the correlation between the targest with each feature individually in the first row.
 From the plot, we can clearly see that the most relavent features are stock price last month, stock
 price two months ago, level of Dow Jones Industrial Averages and level of S & P 500. 
-
 Unemployment rate and volume have slightly negative influence while inlfation rate has medium
 positive influence on current stock price.
 
